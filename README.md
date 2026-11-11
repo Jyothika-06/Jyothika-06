@@ -1,77 +1,128 @@
-# Hi, I'm Jyothika Ashokan 👋
+# Hi, I'm Jyothika Ashokan! 👋
 
-### AI & Data Science Student | Python | Machine Learning | Artificial Intelligence
+### Final-Year B.Tech Artificial Intelligence & Data Science Student
 
-I'm a final-year B.Tech Artificial Intelligence & Data Science student interested in building practical solutions using Python, Machine Learning, and AI.
+I'm interested in building practical applications using **Python, Artificial Intelligence, Machine Learning, and automation**.
 
 I enjoy exploring new technologies, working with data, and developing applications that solve real-world problems.
+
+🌐 **Portfolio:** [Explore My Portfolio](https://jyothika-06.github.io/portfolio/)
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science.
-- 🐍 Interested in Python programming and AI/ML development.
-- 🤖 Exploring Machine Learning, Deep Learning, and Data Science.
-- 💼 Completed a Software Development Internship at Vattara Solutions.
-- 💡 Interested in building practical, AI-powered applications.
-- 🎯 Career goal: Grow as an AI/ML and Python Developer.
+- 🎓 Final-year B.Tech Artificial Intelligence & Data Science student at Kingston Engineering College.
+- 🐍 Interested in Python development, AI/ML, and data-driven applications.
+- 🤖 Exploring Machine Learning, Deep Learning, and AI automation.
+- 💼 Software development internship experience at Vattara Solutions.
+- 💡 Enjoy building practical applications by integrating AI models, APIs, and web technologies.
+- 🎯 Career goal: Grow as an AI Enabler and contribute to real-world AI-powered solutions.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, SQL, Java (Basics)
+**Programming Languages**
+- Python
+- SQL
+- Java (Basics)
 
-**AI & Machine Learning:** Machine Learning, Deep Learning (Basics), CNN, Data Preprocessing, Model Evaluation
+**Artificial Intelligence & Machine Learning**
+- Machine Learning
+- Deep Learning (Basics)
+- Convolutional Neural Networks (CNN)
+- Data Preprocessing
+- Model Evaluation
+- MobileNetV2
 
-**Web Development & APIs:** HTML, CSS, JavaScript, Flask, Streamlit, API Integration
+**Data Analysis**
+- Pandas
+- NumPy
+- Data Visualization
+- Power BI (Basics)
+- Microsoft Excel (Basics)
 
-**Tools & Platforms:** VS Code, Jupyter Notebook, Google Colab, Git & GitHub, Power BI, Microsoft Excel
+**Web Development & Application Development**
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Streamlit
+
+**APIs & Databases**
+- REST API Integration
+- WhatsApp Cloud API
+- Webhooks
+- SQLite
+
+**Tools & Platforms**
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Git & GitHub
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌱 AgroGuard AI | Plant Disease Detection
-- CNN-based plant disease classification across 15 classes.
-- Built using MobileNetV2 and the PlantVillage dataset.
-- Streamlit application with English and Tamil interfaces.
+
+An AI-powered plant disease detection application using a CNN-based MobileNetV2 model.
+
+- Classifies plant diseases across 15 classes.
+- Developed using the PlantVillage dataset.
+- Includes an interactive Streamlit application.
+- Supports English and Tamil interfaces.
+- Provides disease information and suggested treatment guidance.
 
 **Technologies:** Python, TensorFlow, CNN, MobileNetV2, Streamlit
 
-### 📩 AI-Powered WhatsApp Message Sender
-- Worked on an automated WhatsApp messaging application.
+### 📩 WhatsApp Automation Applications
+
+Developed WhatsApp-based automation workflows during my software development internship.
+
+**AI-Powered WhatsApp Message Sender**
 - Integrated WhatsApp Cloud API and webhooks.
-- Included AI-generated images, message scheduling and message history.
+- Worked on automated messaging workflows.
+- Included message scheduling, history, and AI-generated image features.
 
-**Technologies:** Python, Flask, SQLite, WhatsApp Cloud API
-
-### 🏠 Property WhatsApp Service
-- Worked on an interactive property submission workflow through WhatsApp.
-- Collected property details and images through interactive conversations.
-- Implemented multi-step property review and confirmation.
+**Property WhatsApp Service**
+- Developed interactive property submission workflows.
+- Collected property details and images through WhatsApp conversations.
+- Implemented multi-step review and confirmation flows.
 
 **Technologies:** Python, Flask, SQLite, WhatsApp Cloud API, Webhooks
 
-### 🌾 Smart Eco-Friendly Crop Protection Device
-- Hackathon project concept for detecting birds and animals in agricultural fields.
-- Proposed camera-based monitoring and non-harmful deterrent mechanisms.
-- Explored AI and IoT-based crop protection.
-
-**Technologies:** AI, IoT, Camera Systems, Embedded Systems
-
 ### 🤖 Social Media Bot Detection
-- Worked on a team project to classify genuine and automated social media accounts.
-- Used TF-IDF for text feature extraction and Random Forest for classification.
+
+A team-based machine learning project to identify genuine and automated social media accounts.
+
+- Used TF-IDF for text feature extraction.
+- Applied Random Forest for classification.
+- Contributed to the project framework.
 
 **Technologies:** Python, Machine Learning, TF-IDF, Random Forest
 
-### 📈 Stock Price Prediction
-- Analysed historical stock price data.
-- Explored data preprocessing, regression and prediction visualisation.
+### 📈 Stock Price Prediction & Trend Analysis
+
+A machine learning project exploring historical stock price data.
+
+- Performed data preprocessing and analysis.
+- Explored regression-based prediction.
+- Visualized historical trends and predictions.
 
 **Technologies:** Python, Pandas, Machine Learning
+
+### 🌾 Smart Eco-Friendly Crop Protection Device
+
+A hackathon project concept focused on protecting agricultural fields from birds and animals.
+
+- Proposed camera-based monitoring.
+- Explored AI and IoT-based crop protection.
+- Designed non-harmful deterrent mechanisms.
+
+**Technologies:** AI, IoT, Camera Systems, Embedded Systems
 
 ---
 
@@ -79,17 +130,19 @@ I enjoy exploring new technologies, working with data, and developing applicatio
 
 - Strengthening Python programming and problem-solving.
 - Improving Machine Learning and Deep Learning concepts.
-- Exploring practical AI applications.
+- Exploring AI automation and practical AI applications.
 - Learning Java and Object-Oriented Programming.
+- Improving software development and application integration skills.
 
 ---
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Jyothika Ashokan](https://linkedin.com/in/jyotika-ashokan)
-- **GitHub:** [Jyothika-06](https://github.com/Jyothika-06)
-- **Email:** jyothikaa2006@gmail.com
+- 🌐 **Portfolio:** [jyothika-06.github.io/portfolio](https://jyothika-06.github.io/portfolio/)
+- 💼 **LinkedIn:** [Jyothika Ashokan](https://www.linkedin.com/in/jyothika-ashokan)
+- 🐙 **GitHub:** [Jyothika-06](https://github.com/Jyothika-06)
+- 📧 **Email:** [jyothikaa2006@gmail.com](mailto:jyothikaa2006@gmail.com)
 
 ---
 
-*Building practical solutions, learning continuously, and growing in AI & Data Science.*
+*Building practical solutions, exploring AI technologies, and learning continuously.* 🚀
