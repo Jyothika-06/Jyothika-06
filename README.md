@@ -13,7 +13,7 @@ I enjoy exploring new technologies, working with data, and developing applicatio
 - 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science.
 - 🐍 Interested in Python programming and AI/ML development.
 - 🤖 Exploring Machine Learning, Deep Learning, and Data Science.
-- 🌱 Continuously learning and improving my technical skills.
+- 💼 Completed a Software Development Internship at Vattara Solutions.
 - 💡 Interested in building practical, AI-powered applications.
 - 🎯 Career goal: Grow as an AI/ML and Python Developer.
 
@@ -21,61 +21,57 @@ I enjoy exploring new technologies, working with data, and developing applicatio
 
 ## 🛠️ Technical Skills
 
-**Programming**
-- Python
-- SQL
-- Java (Basics)
+**Programming:** Python, SQL, Java (Basics)
 
-**AI & Machine Learning**
-- Machine Learning
-- Deep Learning (Basics)
-- Convolutional Neural Networks (CNN)
-- Data Preprocessing and Analysis
-- Model Evaluation
+**AI & Machine Learning:** Machine Learning, Deep Learning (Basics), CNN, Data Preprocessing, Model Evaluation
 
-**Web Development & APIs**
-- HTML, CSS, JavaScript
-- Flask
-- Streamlit
-- API Integration
+**Web Development & APIs:** HTML, CSS, JavaScript, Flask, Streamlit, API Integration
 
-**Tools & Platforms**
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Git & GitHub
-- Power BI
-- Microsoft Excel
+**Tools & Platforms:** VS Code, Jupyter Notebook, Google Colab, Git & GitHub, Power BI, Microsoft Excel
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌱 AgroGuard AI | Plant Disease Detection
-- Developed an AI-powered application for plant disease classification.
-- Used MobileNetV2-based CNN for image classification across 15 classes.
-- Built an interactive application using Streamlit.
-- Included English and Tamil interfaces, disease information, and PDF reports.
+- CNN-based plant disease classification across 15 classes.
+- Built using MobileNetV2 and the PlantVillage dataset.
+- Streamlit application with English and Tamil interfaces.
 
 **Technologies:** Python, TensorFlow, CNN, MobileNetV2, Streamlit
 
-### 📈 Stock Price Prediction
-- Developed a machine learning project to analyse historical stock price data.
-- Explored data preprocessing, model training, and prediction.
+### 📩 AI-Powered WhatsApp Message Sender
+- Worked on an automated WhatsApp messaging application.
+- Integrated WhatsApp Cloud API and webhooks.
+- Included AI-generated images, message scheduling and message history.
 
-**Technologies:** Python, Machine Learning, Pandas, Jupyter Notebook
+**Technologies:** Python, Flask, SQLite, WhatsApp Cloud API
+
+### 🏠 Property WhatsApp Service
+- Worked on an interactive property submission workflow through WhatsApp.
+- Collected property details and images through interactive conversations.
+- Implemented multi-step property review and confirmation.
+
+**Technologies:** Python, Flask, SQLite, WhatsApp Cloud API, Webhooks
+
+### 🌾 Smart Eco-Friendly Crop Protection Device
+- Hackathon project concept for detecting birds and animals in agricultural fields.
+- Proposed camera-based monitoring and non-harmful deterrent mechanisms.
+- Explored AI and IoT-based crop protection.
+
+**Technologies:** AI, IoT, Camera Systems, Embedded Systems
 
 ### 🤖 Social Media Bot Detection
-- Worked on a group project to identify bot accounts on social media.
+- Worked on a team project to classify genuine and automated social media accounts.
 - Used TF-IDF for text feature extraction and Random Forest for classification.
 
 **Technologies:** Python, Machine Learning, TF-IDF, Random Forest
 
-### ⚖️ Namma Niyayam | Legal Assistance Platform
-- Developed a web-based legal assistance application.
-- Worked with database integration and application development.
+### 📈 Stock Price Prediction
+- Analysed historical stock price data.
+- Explored data preprocessing, regression and prediction visualisation.
 
-**Technologies:** Python, Flask, MySQL, HTML, CSS
+**Technologies:** Python, Pandas, Machine Learning
 
 ---
 
