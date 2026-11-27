@@ -1,54 +1,49 @@
 # Hi, I'm Jyothika Ashokan! 👋
 
-### Final-Year B.Tech Artificial Intelligence & Data Science Student
+### AI & Data Science Undergraduate | Python | Machine Learning | AI Applications
 
-I'm interested in building practical applications using **Python, Artificial Intelligence, Machine Learning, and automation**.
+I'm a final-year B.Tech Artificial Intelligence and Data Science student interested in building practical applications using Python, Machine Learning, and AI technologies.
 
-I enjoy exploring new technologies, working with data, and developing applications that solve real-world problems.
+I enjoy learning by building projects, solving programming problems, and exploring how AI can solve real-world challenges.
 
-🌐 **Portfolio:** [Explore My Portfolio](https://jyothika-06.github.io/portfolio/)
-
----
+🌐 **Portfolio:** [Visit My Portfolio](https://jyothika-06.github.io/portfolio/)
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year B.Tech Artificial Intelligence & Data Science student at Kingston Engineering College.
-- 🐍 Interested in Python development, AI/ML, and data-driven applications.
-- 🤖 Exploring Machine Learning, Deep Learning, and AI automation.
-- 💼 Software development internship experience at Vattara Solutions.
-- 💡 Enjoy building practical applications by integrating AI models, APIs, and web technologies.
-- 🎯 Career goal: Grow as an AI Enabler and contribute to real-world AI-powered solutions.
-
----
+- 🎓 B.Tech Artificial Intelligence and Data Science, Kingston Engineering College.
+- 🐍 Practising Python programming and problem-solving.
+- 🤖 Exploring Machine Learning, Deep Learning, and AI applications.
+- 💼 Internship experience in Python-based application development and automation.
+- 📊 Interested in data analysis and intelligent applications.
+- 🎯 Career goal: Build practical AI-powered solutions and grow as an AI-focused software developer.
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+**Programming**
 - Python
 - SQL
 - Java (Basics)
 
-**Artificial Intelligence & Machine Learning**
-- Machine Learning
-- Deep Learning (Basics)
-- Convolutional Neural Networks (CNN)
+**AI & Machine Learning**
+- Machine Learning Fundamentals
+- Deep Learning Fundamentals
+- Convolutional Neural Networks
+- MobileNetV2
 - Data Preprocessing
 - Model Evaluation
-- MobileNetV2
 
 **Data Analysis**
 - Pandas
 - NumPy
-- Data Visualization
-- Power BI (Basics)
 - Microsoft Excel (Basics)
+- Power BI (Basics)
 
-**Web Development & Application Development**
+**Application Development**
+- Flask
+- Streamlit
 - HTML
 - CSS
 - JavaScript
-- Flask
-- Streamlit
 
 **APIs & Databases**
 - REST API Integration
@@ -56,93 +51,102 @@ I enjoy exploring new technologies, working with data, and developing applicatio
 - Webhooks
 - SQLite
 
-**Tools & Platforms**
+**Tools**
 - VS Code
 - Jupyter Notebook
 - Google Colab
-- Git & GitHub
-
----
+- Git and GitHub
 
 ## 🚀 Featured Projects
 
 ### 🌱 AgroGuard AI | Plant Disease Detection
 
-An AI-powered plant disease detection application using a CNN-based MobileNetV2 model.
+An AI-based plant disease classification application using a MobileNetV2 CNN model.
 
-- Classifies plant diseases across 15 classes.
+- Classifies 15 plant disease and healthy-leaf categories across Tomato, Potato, and Bell Pepper.
 - Developed using the PlantVillage dataset.
-- Includes an interactive Streamlit application.
-- Supports English and Tamil interfaces.
-- Provides disease information and suggested treatment guidance.
+- Achieved 92.63% validation accuracy on the validation dataset.
+- Includes a bilingual English and Tamil Streamlit interface.
+- Provides disease information and advisory guidance.
+- Includes an uncertainty assessment to identify potentially unreliable predictions.
 
-**Technologies:** Python, TensorFlow, CNN, MobileNetV2, Streamlit
+**Technologies:** Python, TensorFlow, MobileNetV2, CNN, Streamlit
 
-### 📩 WhatsApp Automation Applications
+🔗 [View Repository](https://github.com/Jyothika-06/agroguard)
 
-Developed WhatsApp-based automation workflows during my software development internship.
+### 🤖 Hiver Support Agent | AI Customer Support
 
-**AI-Powered WhatsApp Message Sender**
-- Integrated WhatsApp Cloud API and webhooks.
-- Worked on automated messaging workflows.
-- Included message scheduling, history, and AI-generated image features.
+A company take-home assignment exploring an AI-powered customer-support workflow.
 
-**Property WhatsApp Service**
-- Developed interactive property submission workflows.
-- Collected property details and images through WhatsApp conversations.
-- Implemented multi-step review and confirmation flows.
+- Explores customer intent classification and historical response retrieval.
+- Includes a decision mechanism for handling or escalating queries.
+- Uses evaluation metrics to compare approaches.
+- Documents system architecture, evaluation methodology, and limitations.
+
+**Technologies:** Python, Machine Learning, TF-IDF, Classification, Information Retrieval
+
+🔗 [View Repository](https://github.com/Jyothika-06/hiver-support-agent)
+
+### 📩 WhatsApp Automation | Internship Experience
+
+Worked on Python-based WhatsApp automation applications during my internship at Vattara Solutions.
+
+- Implemented scheduled messaging and message history.
+- Worked on input validation and webhook event handling.
+- Integrated AI-generated image delivery.
+- Worked with WhatsApp Cloud API and Flask-based workflows.
 
 **Technologies:** Python, Flask, SQLite, WhatsApp Cloud API, Webhooks
 
 ### 🤖 Social Media Bot Detection
 
-A team-based machine learning project to identify genuine and automated social media accounts.
+A team-based machine learning project to identify automated social media accounts.
 
-- Used TF-IDF for text feature extraction.
-- Applied Random Forest for classification.
 - Contributed to the project framework.
+- Worked in a team using TF-IDF feature extraction and Random Forest classification.
 
-**Technologies:** Python, Machine Learning, TF-IDF, Random Forest
+**Technologies:** Python, TF-IDF, Random Forest, Machine Learning
 
-### 📈 Stock Price Prediction & Trend Analysis
+🔗 [View Repository](https://github.com/Jyothika-06)
 
-A machine learning project exploring historical stock price data.
+### 📈 Stock Price Prediction
 
-- Performed data preprocessing and analysis.
-- Explored regression-based prediction.
-- Visualized historical trends and predictions.
+A learning project exploring historical stock price analysis and regression-based prediction using Apple stock data.
 
-**Technologies:** Python, Pandas, Machine Learning
+- Performed data preprocessing and exploratory analysis.
+- Explored Linear Regression.
+- Evaluated predictions using regression metrics.
+- Identified limitations related to dataset size and model generalisation.
 
-### 🌾 Smart Eco-Friendly Crop Protection Device
+**Technologies:** Python, Pandas, NumPy, Scikit-learn
 
-A hackathon project concept focused on protecting agricultural fields from birds and animals.
-
-- Proposed camera-based monitoring.
-- Explored AI and IoT-based crop protection.
-- Designed non-harmful deterrent mechanisms.
-
-**Technologies:** AI, IoT, Camera Systems, Embedded Systems
-
----
+🔗 [View Repository](https://github.com/Jyothika-06/AI-Stock-price-prediction)
 
 ## 📚 Currently Learning
 
-- Strengthening Python programming and problem-solving.
-- Improving Machine Learning and Deep Learning concepts.
-- Exploring AI automation and practical AI applications.
-- Learning Java and Object-Oriented Programming.
-- Improving software development and application integration skills.
+- Python programming, OOP, and problem-solving.
+- SQL queries, joins, and database operations.
+- Machine Learning concepts and model evaluation.
+- API integration and application development.
+- Git, GitHub, and collaborative development.
 
----
+## 📈 My Practice Journey
+
+I am consistently working on:
+- Python coding challenges.
+- SQL practice problems.
+- Machine Learning experiments.
+- Improving existing projects.
+- Building and documenting practical applications.
 
 ## 🤝 Connect With Me
 
-- 🌐 **Portfolio:** [jyothika-06.github.io/portfolio](https://jyothika-06.github.io/portfolio/)
-- 💼 **LinkedIn:** [Jyothika Ashokan](https://www.linkedin.com/in/jyothika-ashokan)
-- 🐙 **GitHub:** [Jyothika-06](https://github.com/Jyothika-06)
-- 📧 **Email:** [jyothikaa2006@gmail.com](mailto:jyothikaa2006@gmail.com)
+- 🌐 [Portfolio](https://jyothika-06.github.io/portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jyothika-ashokan)
+- 🐙 [GitHub](https://github.com/Jyothika-06)
+- 💻 [LeetCode](https://leetcode.com/u/Jyothika-06/)
+- 📧 [Email Me](mailto:jyothikaa2006@gmail.com)
 
 ---
 
-*Building practical solutions, exploring AI technologies, and learning continuously.* 🚀
+*Learning continuously. Building practically. Growing in AI and software development.* 🚀
